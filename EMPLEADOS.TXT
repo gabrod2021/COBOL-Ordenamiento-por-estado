@@ -1,0 +1,1217 @@
+12567806CARBAJAL                 ALFREDO JAIME            B
+12567280PIÑA                     JOSE MANUEL              A
+12567108MARCHENA                 MARIO                    A
+12567200GIRON                    VANESSA SAMANTA          C
+12566769TEJADA                   JUAN JOSE                A
+12567305ANGELES                  KENYI ARIADNA            E
+12567821PALOMINO                 ANDREA DEL ROCIO         C
+12566912GALARRETA                DAVID ANGELO             E
+12567695PALMA                    GLORIA MARGARITA         A
+12567816TRUJILLO                 DANIEL FRANCISCO         E
+12567002APARICIO                 MARIA ELENA              B
+12567324AGUILAR                  MIGUEL ANGEL             A
+12567469CENTENO                  HERMANN EDUARDO          E
+12567601MARTINEZ                 ELEODORO RICHARD         E
+12566872SALAS                    RICHARD WINSTON          A
+12567245GOMEZ                    YESHICA ROMINA           B
+12567751UBILLUS                  ALESSANDRO               E
+12567780BUSTOS                   FRANCY GUISELLA          D
+12567033GONZALES                 ANDRES                   A
+12567179LEON                     VERONICA MARIBEL         B
+12567209RECAVARREN               IRENE CECILIA            B
+12567660DIAZ                     MACARENA                 A
+12566776BENAVENTE                PAMELA ROCIO             C
+12566874CAJAS                    DENISE BELINDA           B
+12567239TORRES                   MIRIAM MARUXA            B
+12566883SIFUENTES                ELISA INES               A
+12567173VARGAS                   ROMULO JORGE             B
+12567139SALAS                    THOMAS JOSE              E
+12567259LIMA                     ESTHER MARICEL           C
+12567397LANAZCA                  DIEGO REYNALDO           C
+12567762ARTEAGA                  GIULIANA PALOMA          C
+12567124RODRIGUEZ                IVONNE MADELEINE         B
+12567088CELIS                    CINTHYA GRISELL          D
+12567154PEREDA                   HENRY                    D
+12566799JACOBE                   ANDRES ALEJANDRO         C
+12567037ZUTA                     CAROLA KARINA            B
+12567662BUSTAMANTE               ABRAHAM ESTEBAN          B
+12567220BENDEZU                  DANIEL ROBERTO           D
+12566736ARGANDOÑA                JESUS                    A
+12567167VILELA                   YAN PIERRE               D
+12567753VALENCIA                 DESIREE F                D
+12567051WASCHBUESCH              DESIREE MIREYA           C
+12567216MENDOZA                  LANA ROSE                A
+12567840PERSIVALE                YONNY SANTIAGO           E
+12567696FARRO                    JEAN PIERRE              D
+12567260MOSLEY                   JULIO MAXIMO             C
+12567262GODINEZ                  CRISTHIAN                C
+12566911VILCHEZ                  MANUEL LEONARDO          B
+12567309MANRIQUE                 AIDEE ESPERANZA          E
+12567858AGUILA                   LUIS ALBERTO             A
+12567831RAMOS                    CARMEN PILAR             E
+12567597SANCHEZ                  ALVARO JUAN              D
+12566809ESPINOZA                 MARGARITA                D
+12566997ROJAS                    YESHICA ROMINA           C
+12566856MIRANDA                  PATRICIA ELIZABETH       B
+12567026BARTUREN                 MARIA ELENA              E
+12567604ALTAMIRANO               RICHARD WINSTON          A
+12566881YU                       VANESSA SAMANTA          D
+12567276CONTRERAS                MARY ELSA                C
+12567471VALDEZ                   KATITZA ROSANA           D
+12566812COA                      LUCAS                    D
+12567085MONTALVO                 DAVID GABRIEL            A
+12567142FERNANDEZ DE GARRATT     LEONOR DORIS             A
+12567849OLIVER                   MIRIAM MARUXA            B
+12567165PEREZ                    MARIA LUISA              A
+12567494OLIVARES                 ARMANDO ALFREDO          D
+12567511BAZAN                    IGNACIO EDUARDO          B
+12567591RAMOS                    NORMAN BRUCE             D
+12567887VALENTINO                CLAUDIA ISABEL           D
+12567627SAUSA                    JUAN JOSE                E
+12566766DONGO                    JUAN CARLOS              C
+12567221CORTEGANA                CESAR MANUEL             B
+12567413RAMIREZ                  VICTOR DANIEL            A
+12567470QUISPE                   HAROLD WOODROW           D
+12567593ROMERO                   RUBEN RICARDO            A
+12567810BRACHO                   RODOLFO DAVID ANTONIO    B
+12566943SORIANO                  CARMEN ROSA              B
+12567018TORRES                   HECTOR LUIS              E
+12567063SAKAI                    RAMON ALBANO             C
+12567060BRAVO                    LUISA                    C
+12566796PEREZ                    ELEODORO RICHARD         B
+12567361ROMERO                   MERCEDES CAROL           C
+12567733SILVA                    ELENA                    A
+12567116FARFAN                   VIVIANA VANESSA          B
+12567194CHICCHON                 ZENON                    C
+12567802BOCANEGRA                VICTORIA CELESTINA       D
+12566880YONG                     JENNIFER ALISON          E
+12567064GOMEZ                    ULADISLAO                A
+12567629PAREDES                  MARIO ANTONY             D
+12567010OLIVERA DE MACCO         JULIA LEONOR             B
+12567522CORDOVA                  JOSE ELIAS               C
+12567643VALERIA                  ANDDY JORDAN             C
+12567176CALLE                    MARIA DEL CARMEN         E
+12566870CHAVEZ                   GRICELDA CLORINDA        B
+12567290LISE                     ARMANDO ALFREDO          D
+12567019VASQUEZ                  JULIO GUILLERMO          C
+12567926PAREDES                  BRIANNA                  D
+12566897JAVIER                   HAYRO GABRIEL            C
+12567271REYES                    LEONOR AURORA            E
+12567595PALOMINO                 VALERIA ALEJANDRA        C
+12566924LOPEZ                    BRANDON                  A
+12567492ISMODES                  HILDA VIOLETA            C
+12567526LARRIEGA                 JUAN DE LA CRUZ          B
+12567585QUISPE                   LEONEL                   C
+12567805SULCA                    CYNTHIA EUFEMIA MICHELLE B
+12567436CORTES                   ROXANA ARACELI           D
+12567693RAYGADA                  EDWARD JHONATTAN         B
+12566791POLLERI                  NICOLE ADRIANA           B
+12567587SCHREIER                 LINA LUZ                 C
+12567598CORAHUA                  SUSANA MARIA             E
+12566825VELA                     ANITA LETICIA            A
+12567098LOSTAUNAU                ALEJANDRA GUADALUPE      E
+12567362BUSTINZA                 ZANDALE PRISCILA         E
+12567774BAJONERO                 RICARDO GERMAN           E
+12566902HOLGUIN                  TERESA                   D
+12567688ACUÑA                    MILLIE JANELLE           C
+12567905NECOCHEA                 SHIZUE                   B
+12567315PORTUGAL                 JANNY EVELYN             A
+12567668SHIMOSE                  CARMEN IRENE             E
+12567732LI                       ANDRES EDUARDO           C
+12567550ALFARO                   JUAN JOSE                E
+12566797VELA                     ISABELITA                A
+12566891RIOS                     ANABEL                   C
+12567050BENAVENTE                BLANCA IRIS              B
+12567412CHAPILLIQUEN             JUAN CARLOS              D
+12567747VERGARA                  RANDY LUZ                B
+12566910PAICO                    JORGE                    B
+12567225PAJUELO                  MARIA ELENA              C
+12567490BENAVENTE                MIRIAM NELVA             A
+12566774PAZ                      DANIEL ALBERTO           C
+12567777SANCHEZ                  ROSA CLOTILDE            C
+12567015VITALIANO                CLAUDIA ROZANA           B
+12567699CORDOVA                  FELICIA                  E
+12567011VILLAR                   MARIA LUZ                D
+12566828MEZARINA                 LUCA TIMOTHY             E
+12566737VALDEZ                   ESTHER MARICEL           C
+12567356ARANGO                   DAVID ANGELO             C
+12567830ALFARO                   CARLOS EDUARDO           E
+12567678MÜLLER                   RODOLFO DAVID ANTONIO    D
+12567403MEJIA DE JIMENEZ         RICARDO ALFONZO          D
+12567582VARAS                    JOSE HUMBERTO            C
+12567854CHUCO                    JAIME GUSTAVO            A
+12567817VENTURA                  GIANINA ELVIRA           D
+12567404KILCOYNE                 GINA PAOLA               C
+12567557NAVARRO                  ROSA MERCEDES            E
+12566984CIUDAD                   HIPOLITO ABRIL           A
+12567651NIQUEN                   CLARA                    E
+12566752TAFUR                    JORGE ALBERTO            B
+12567160CORTES                   ELVIRA                   C
+12567384CASTAÑEDA                SERGIO                   E
+12567291SALVATIERRA              GIULIANA PALOMA          C
+12567564PINO                     JOSE FREDDY              E
+12567646GARAY                    RAUL OSCAR               D
+12566944LA MADRID                GIANINA ELVIRA           A
+12567761NUÑEZ                    LETTY CONCEPCION         A
+12567118LA SERNA                 MARISCELA ISABEL         E
+12566757SILVERA                  CELIA VICTORIA           B
+12567241VILCHEZ                  LESLY ANGELICA HANNY     A
+12567859GARCIA                   JOHANNA                  B
+12566842DAVILA                   ANA CECILIA              A
+12566985MATTOS                   ESTEFANI                 A
+12567782LIÑAN                    GERMAN GUILLERMO         B
+12567400INUMA                    JUANA ROSA               E
+12567517LUNA                     JORGE                    D
+12567752SANCHEZ                  AZUCENA LUCCIANA         E
+12566843ESPAÑA                   SILVIA VERONIKA          B
+12567554KIRK                     JHONY WILLIAM            E
+12567202TRINIDAD                 LUPE ESTELA              B
+12567769OTOYA                    EMBERY JESUS             C
+12566813VILCA                    BRENDA YOLIZA            B
+12567326NEYRA                    ZARELLE GUISELLE         D
+12567314AMPUERO                  VICKY DESSIRRE           B
+12566946CARRANZA                 JESSICA ANDREA           B
+12567504BARRON                   LILA CHARLIZE            C
+12567615SAAVEDRA                 ELISA INES               B
+12567895RETIS                    STEPHANO D' ALESSANDRO   D
+12566950FOSTER                   VIVIANA VANESSA          A
+12567478ONTANEDA                 ALVARO JUAN              C
+12567786ESCOBAR                  AMIL TAF                 D
+12566940DIANDERAS                DIANA BRIGITTE           D
+12567879GIL                      JUAN CARLOS              A
+12567891PONCE DE LEON            RICHARD ENRIQUE          A
+12567285RIVERO                   ANA                      B
+12567287TAFUR                    YOLANDA                  C
+12567332CARRASCO                 MARILIA                  D
+12567857NEGRETE                  RICARDO                  B
+12567741VILLANUEVA               ANA DENISE               D
+12567111SCHEELJE                 RUBEN FILIBERTO          D
+12566778AYALA                    ELVIA                    B
+12567804PATRICIO                 SEBASTIAN BRUNO          B
+12567047LOARTE                   LUCINDA MARGOT           A
+12567295RAMIREZ                  VICKY DESSIRRE           C
+12567411RODRIGUEZ                BRITNEY                  A
+12566992ALATTA                   CARLOS                   A
+12566755SANCHEZ                  PATRICK                  B
+12567683SAMANAMUD                PATRICK                  D
+12567421TOLEDO                   JEAN PIERRE              C
+12566983VEGA                     ROSENDO PABLO            A
+12566982TORRES                   PETRONILA                A
+12567664LEOPOLD                  ANA MARIA DEL ROSARIO    A
+12566907PAYVA                    CARLOS ALEJANDRO         C
+12567247LLANOS                   RICARDO ARTURO           E
+12566710CAJAS                    BETTY GENARA             D
+12566787RUIZ                     ALONSO ALEJANDRO         A
+12566889MORON                    JOSIAH MATTEO            A
+12567467YEN                      JOSE FERNANDO            D
+12567735PESCORAN                 PAMELA ROCIO             E
+12567381GRANZA                   ANN CATHERINE            D
+12567896MONTOYA                  ELVIRA                   C
+12566844GARCIA                   JORGE LUIS               A
+12567296PEÑA                     GLADYS                   D
+12567543JUAREZ                   MARIA LUISA              A
+12567729GUTIERREZ                GISELLE FLOR             B
+12567880FLORIAN                  BRAULIO                  A
+12567234HUAMAN                   HUGO ANDRES              C
+12567006MOLERO                   EVARISTA PAULA           B
+12567516BONILLA                  REGINA DIANA             E
+12567783SOLIS                    JAIME GUSTAVO            A
+12567100CHAVEZ                   CARLOS ALBERTO           D
+12567441MANTILLA                 LARA CECILIA             D
+12567694AVALOS                   JOHANA LUCILA            C
+12567715PARIONA                  HIPOLITO ABRIL           B
+12567772CHUMPEN                  KARIM ARACELLY           E
+12567927RODRIGUEZ                ERIKA                    C
+12567370HORNA                    FABRIZIO ALEJANDRO       C
+12567138JALLO DE AYALA           RAMON ALBANO             A
+12567541FERNANDEZ                VICTOR RAUL              D
+12567059TORRES DE BOCANEGRA      ROSARIO MECEDES          E
+12567148ALARCON                  MILUSKA STEPHANY         C
+12567690GARAY                    MARLIES KAREM            C
+12566859VERA PORTOCARRERO        JUANITA GISELLA          E
+12566920ALIGUILLEN               LUIS MIGUEL              C
+12566900DOMINGUEZ                PAMELA LESLIE            B
+12567041SADOWSKY                 MICHELLE CHRISTINE       C
+12567626BRIONES                  GLADYS                   A
+12567708FAJARDO                  ANA MARIBEL              C
+12567056CAPUCHO                  YESSICA                  C
+12567395RODRIGUEZ                EDGARD GUSTAVO           B
+12567174CORONADO                 IGNACIO EDUARDO          C
+12567525DIAZ                     CARLOS MANUEL            C
+12567876RAMOS                    FABIANA                  D
+12567372DELGADO                  MOISES FLORENCIO         D
+12567374HUAROC                   GRACIELA VICTORIA        D
+12566954CALDERON                 SHIRLEY                  A
+12567007PAREDES                  ESPERANZA                B
+12567555NUÑEZ                    CELICA TRINIDAD          E
+12567612EDLUND                   MARTHA MARIA             A
+12567884OTAROLA                  HENRY IVAN STEWARD       C
+12566747PAUCAR                   CARLA GUADALUPE          E
+12566963MORALES                  MARTHA MARIA             C
+12566818RAMIREZ                  KARLA ANGELA             B
+12566854ALVAREZ                  JULIO CESAR              B
+12567512LOYOLA                   GIANELLA                 C
+12567765TORRICO                  SACRAMENTO               A
+12567837ZELAYA                   JORGE JACKSON            E
+12567243RICALDI                  JOSE ELIAS               E
+12567509MUJICA                   ZANDALE PRISCILA         E
+12567495OTAÑO                    MARIA LUZ                A
+12566882MOLINA                   BRENDA YOLIZA            E
+12567408MEZA                     JUAN                     E
+12566756RIVERA                   CARLOS                   A
+12567889GARDELLA                 DAMIAN JULIO             B
+12566780BERNAOLA                 ELZA                     C
+12567065RIVERA                   GISELLA CRISTINA         D
+12567415LUNA                     EDILBERTO                D
+12567453GODOY                    DARLING SOFIA            C
+12566793RIVAS                    ROSANGELA VERONICA       C
+12567021RENGIFO                  HILDA MILAGRITOS         D
+12567297VIVANCO                  JUAN JOSE                B
+12567523VILLA                    JUANA ROSA               E
+12566938COLLAZOS                 RAFAEL                   B
+12567439GUADIAMOS                MARTIN ENRIQUE           A
+12566862PECHO                    FERNANDO                 E
+12567814NUNURA                   MILAGROS VANESSA         D
+12567828ORVETTO                  STEFANO                  B
+12566761YANQUI                   JUAN DE LA CRUZ          E
+12567294LESCANO                  ROSA CLOTILDE            B
+12566803MEJORADA                 MANUEL HERNAN            E
+12567447CANESSA                  JAIME IVAN MARTIN        E
+12567076LEYVA                    NICOLAS MARIANO          C
+12567428CHIA                     VICTOR                   E
+12566941ZAMALLOA                 LEONEL SAUL              A
+12567203VEGA                     FERNANDO                 B
+12566935VILLALOBOS               LUIS ALEJANDRO           B
+12567820CHIRINOS                 RAUL OSCAR               E
+12566808BECERRA                  CYNTHIA EUFEMIA MICHELLE C
+12567223CAMONES                  KATTY SUSANA             B
+12567578GARZON                   GIULIAN ALEXANDER        B
+12566865SANCHEZ                  ABRAHAM ESTEBAN          C
+12566896HUAMANI                  CARMEN SILVIA            B
+12567172PLASENCIA                JOSE LUIS                C
+12567809PATIÑO PATRONI           GRICELDA CLORINDA        D
+12567726LUQUE                    GENARO RICARDO           A
+12567766CHACON DE LOYOLA         AMIL TAF                 C
+12567877SANCHEZ                  KELLY                    C
+12567191CASTRO                   PABLO                    C
+12567048DE MENDONCA              ALEXA RAE                A
+12567689NAVEA                    GINO PAOLO               C
+12567368CABALLERO                YESSICA                  B
+12567845SILVA                    LUIS RAFAEL              E
+12566991SEGURA                   PATRICE ANNE             D
+12567311OSORIO                   JAVIER MIGUEL            E
+12567378LEAMAN                   ALEXIA                   B
+12567435TAPIA                    RANDY LUZ                C
+12567801TENORIO                  LUIS MIGUEL              D
+12567396AGUIRRE                  SERGIO                   C
+12567730GALLO                    ELENA REGINA             E
+12567284CRUZADO                  LIBIA HIDEKO             D
+12567106RODRIGUEZ                LINO ALBERTO             E
+12566949MUÑOZ                    MILTON ANGELO            A
+12567800CALLE DE DODGE           JAVIER FERNANDO          B
+12567679RUBIO                    ROSARIO MECEDES          C
+12567833VIRTO                    FLOR VERONICA            B
+12566845TORRES                   MILLIE JANELLE           D
+12567197PANTA                    REGINA DIANA             B
+12567920CAMPOS                   MARIANA                  E
+12567175SIVINCHA                 LILIAN SUSANA            E
+12567577RUIZ                     GILMER AUGUSTO           E
+12567388LEON                     MARIA LUZ                C
+12566790MARTINEZ                 MYRKA VALERY             B
+12566875CARDENAS                 HUGO ALBERTO             B
+12567472GONZALEZ                 ASHLEY IRENE             C
+12567561SALDAÑA                  ANA CATHERINE            B
+12567024ARENAS                   DANIEL HERNAN            A
+12567633VASQUEZ                  LARA CECILIA             E
+12566871TAPIA                    HUMBERTO GIANCARLO       C
+12566921DEL BUSTO                MAGALI INES              B
+12567531GOMEZ                    VICTOR LUIS              B
+12567319LEZCANO                  DOMINIK ALEJANDRO        D
+12567023SALCEDO                  MARIA ESTHER             D
+12567055SALAS                    MANUEL HERNAN            B
+12567559URCIA                    AIDEE ESPERANZA          B
+12567869MESTANZA                 SERGIO DAVID             C
+12567303RODRIGUEZ                EVARISTA PAULA           C
+12567431SOSA                     CARLOS MANUEL            B
+12566971RAGOSTA                  MYRKA VALERY             A
+12567535ZAMUDIO                  HECTOR                   E
+12567089SOTO                     GISSET MARGARITA         B
+12567871PACHECO                  LUIS ALBERTO             C
+12566929MORENO                   ISABELITA                A
+12567281SAUSA                    SUSAN CATHERINE          E
+12567122GALINDO                  MICHELLE CHRISTINE       C
+12567013SANDOVAL DE MEZA         HUGO ANDRES              C
+12567144CALDERON                 JODY MERCEDES            E
+12567764MARTINEZ                 THOMAS JOSE              B
+12567738RAMOS                    IVONNE MADELEINE         A
+12566976BLANCO                   STEPHANO D' ALESSANDRO   C
+12567016ASCA                     ROXANA GILDA             C
+12567581PAYVA                    JHON POOL                A
+12566953ROMERO                   JUAN MANUEL              A
+12567903LEZAMA                   HAROLD WOODROW           C
+12567040DE MONTERO               LUISA                    D
+12567672CARO                     HUGO ALBERTO             A
+12566925SANCHEZ                  INGRID                   C
+12567046ALEGRE                   LUCY ELENA               B
+12567104NAPURI                   JOSHUA LEONARDO          B
+12567119SOTOMAYOR                RAUL FELIPE              D
+12567474HUERTAS                  HENRY                    C
+12566712NOVOA                    LUCY                     B
+12566772GUZMAN                   JULIO CESAR              A
+12567705ZEVALLOS                 TANIA CAROLINA           E
+12566998CAMPOS                   CARLOS ALBERTO           E
+12567162CONCHA                   RICARDO ALEX             C
+12567458ACEVEDO                  SADIALY PAOLA            A
+12567923TORRES                   SUSANA CECILIA           B
+12567635REVOREDO                 ANN CATHERINE            D
+12566877YUI                      LEONOR DORIS             B
+12566961TAVERA                   JON RAMIRO ROSENDO       E
+12567195RODRIGUEZ                CESAR EDWIND             E
+12567865HINOSTROZA               ROXANA DEL CARMEN        B
+12567207USCAMAITA                GLORIA                   B
+12566719FERNANDEZ                URSULA MARIA             E
+12566892CARRERAS                 FELICIA                  A
+12566821LOYOLA                   JUAN MARTIN              E
+12567066VARGAS                   CAROLINE                 A
+12567486CHAVEZ                   MELISSA                  B
+12566848RULLIER                  SUSANA CECILIA           A
+12566981PORTUGAL                 PETRONILA                E
+12567406PANAQUE                  EDWARD JHONATTAN         D
+12567508CASABONA                 LUIGI ANTONINO           A
+12567180CALDERON                 MARIA ELIZABETH          E
+12567599VASQUEZ                  BRITNEY                  E
+12567596MAGUIÑA                  ZOILA SOLEDAD            C
+12567827TTITO                    ANA DENISE               B
+12567382CANDELA DE GUZMAN        AGATHA LIZ               B
+12567610NAPURI                   JUANITA GISELLA          E
+12567151ESPINOZA                 BETTY GENARA             A
+12567158CARDENAS                 JAVIER EDUARDO           B
+12567317MELGAREJO                CAMILLE MEZARINA         C
+12567760HERNANDEZ                MARIANA                  D
+12567320GARCIA                   CARLOS ANDRES            D
+12567537LEON                     ALEXANDER LAWSON         D
+12567532TORRES                   JAVIER MIGUEL            A
+12566927IZQUIERDO                DANIEL ALBERTO           A
+12567669SUAREZ                   CRISTHIAN                C
+12567899GUZMAN                   SEBASTIAN BRUNO          D
+12567924HUAMAN                   JONATHAN LEON            A
+12567082NUÑEZ                    JOHANA LUCILA            A
+12566723SIPION                   JOSE LUIS                A
+12567278BRIONES                  GLADYS BERNARDA          D
+12567463PULIDO                   MARISSEL ALICIA          C
+12567718ACUÑA                    VERONICA MARIBEL         C
+12566926CALDERON                 BIANCA CECILIA           B
+12567267REYES                    KATHERINE LYNN           D
+12567454PEREZ                    RAUL ANGEL JOSE          D
+12566909SIRLOPU                  DANIEL JESUS             D
+12567192BENAVENTE                ROMAN                    A
+12567742GOMEZ                    JOSE ANDRES              B
+12567182CABRERA                  VERONICA ELIZABETH       D
+12566789RODRIGUEZ                ANILU IRMA               D
+12567644CAMPOS                   GESELLE                  A
+12567794GARCIA                   SUT LAN                  E
+12567409RIVERA                   MILUSKA STEPHANY         A
+12567238GAMARRA                  YONNY SANTIAGO           C
+12567719VASQUEZ                  DANIEL JESUS             D
+12567336OROSCO                   JOSE MANUEL              D
+12567608JATAVE                   DEISI KARINA             E
+12567842CAI DE KON               EDUARDO ULISES           B
+12567005RODRIGUEZ                EDDY BENJAMIN            A
+12567380ECHEVARRIA               WILFREDO SEBASTIAN       E
+12567009SOTO                     TERESA                   C
+12567480CASTILLO                 MARIELLA YOLANDA         B
+12566937CASTRO                   ROSA ELVIRA              C
+12567337SALDAÑA                  WLENNY GIOVANNA          E
+12566748COLLAZOS                 CARLOS EDUARDO           C
+12567123VARGAS                   FLOR DE MARIA            C
+12567714CAYLLAHUA                PATRICIA ELIZABETH       A
+12566721REQUENA                  MARLIES KAREM            E
+12566794CACERES                  ROLANDO                  E
+12566867NAVARRETE                CRISTHIAN DANIEL         A
+12567143NICHO                    LUIGI ANTONINO           D
+12567776ESTRADA                  FELICITA VICTORIA        A
+12567807GUIZADO                  LUIS ALEJANDRO           D
+12567465VELAOCHAGA               CARLOS RAUL              C
+12566753VARELA                   JOSE LUIS                C
+12566806CASTRO                   CECILIA YOVANA           E
+12567255VELAQUEZ                 NORMALINDA               E
+12566763SALAZAR                  RENEE                    A
+12567609PINTO                    GIANCARLOS ARTURO        D
+12567625VALERA                   GILMER AUGUSTO           D
+12566989HOYOS                    LISSETTE                 B
+12567028ECHEVARRIA               RICHARD ENRIQUE          D
+12566783SALAS                    PATRICIA CAROL           C
+12566923ZAVALETA                 AARON                    E
+12567201SUSANIBAR                KELLY CARMIN             D
+12567867SOLIS                    MIGUEL ANGEL             E
+12567178DECENA                   FLOR VERONICA            A
+12567423MAOKI                    ANDRES                   E
+12567661PORTILLA                 AARON                    A
+12567702MERE                     MARIANELLA               A
+12566741RODRIGUEZ-PASTOR         MARIA MARTA              A
+12567648BAZAN                    EMILIANA                 B
+12567137MARINA                   JUAN CARLOS              C
+12567481URQUIZO                  RICARDO CESAR            A
+12566807ESPINOZA                 MARIA LOURDES            C
+12567717POLETTI                  ROXANA                   D
+12567109ONSIHUAY                 MEDALIT REBECA           A
+12567450NEIRA                    LOGAN PAREDES            C
+12567592COAQUIRA                 PERCY ESTUARDO           D
+12567217RAYGADA                  MATTHIAS IGNACIO         A
+12566994RUIZ                     GLADYS HORTENCIA         D
+12566715RIVAS DE INESTROZA       RAUL GREGORIO            E
+12567881RENGIFO                  CINTHIA PRISCILLA        E
+12567232ALCALDE                  GIOVANNI ORLANDO         E
+12567853TORANZO                  EDSON JHONATAN           E
+12567251GRANDEZ                  OLIVER FRITZ             D
+12567058ABAD                     OMAR                     C
+12566918NICOLINI                 GRIMALDINA               E
+12567770GRIMALDI                 GISSELLA ANTUANET        C
+12566725TASAYCO                  ROSA HELLEN              B
+12567642REYES                    LUCCAS ANGELO            C
+12566855VARGAS                   CARLOS ALEJANDRO         A
+12567755TRAGSIEL                 JIMMY VICTOR             E
+12567189MORON                    JESUS FELIPE             A
+12566711SANCHEZ                  ELIZABETH LUZ            E
+12567909MARCOS                   JOSE ANTONIO             E
+12567533VARGAS                   PEDRO MIGUEL GUSTAVO     E
+12567301LUCANA                   PIERO THOMAS             E
+12567784HUAMAN                   PABLO                    A
+12567791HAAS                     JUAN ROBERTO             A
+12566800SANCHEZ                  CLAUDIO WILFREDO         E
+12567348REYES                    CARLOS GUSTAVO           B
+12567038PALOMINO                 ENA                      E
+12567330AGUEDA                   CHRISTINA DIANA          C
+12567049MEDINA                   BIANCA CECILIA           B
+12567155WILSON                   ROSSANA ELIZABETH        B
+12566742GARAY                    STEPHANIE                E
+12566885NAVARRO                  NATALIE NICHOLE          C
+12567222ALARCON                  GISELLE FLOR             E
+12567617NUÑEZ                    CESAR AUGUSTO            C
+12566805GUERRA                   EMMA ELINA               D
+12567410PAREDES                  MILAGROS GISELLE         C
+12567613GIORFFINO                RENEE                    B
+12567099QUIPUZCO                 ANABEL                   C
+12567091RUIZ                     RICARDO ALFONZO          B
+12567457ESPINO                   SANDRA FRANCESCA         D
+12567177SANCHEZ                  DAVID GABRIEL            B
+12566734JIMENEZ                  JULISSA LIZETH           D
+12567389PEREZ                    MARIA PIA                D
+12567922MOLEROS                  JUAN CARLOS              E
+12567429LOAYZA                   YORYI VILMA              D
+12566745TRUJILLO                 MARISSEL ALICIA          E
+12567071VARA                     ALDO JOSE                D
+12567017VILA                     ASCENCION                A
+12567574GARCIA                   ARMANDO                  C
+12567039PLACENCIA                JUSTINIANO NICANOR       B
+12567387TORRES                   JAVIER FRANCISCO         B
+12567432RODRIGUEZ                CINTHIA PRISCILLA        D
+12567544GUZMAN                   EDWIN EDDY               A
+12567250ARBILDO                  GABRIELA                 D
+12566801TASAYCO                  JOSE LUIS                D
+12567181IZQUIERDO                JOSE MANUEL              B
+12567575PAUCAR                   DANIEL ROBERTO           E
+12566933VALDERRAMA               GIOVANNA ALEJANDRA       E
+12567261ZEVALLOS                 LILIANA CATALINA         A
+12567775LAOS                     ZARELLE GUISELLE         A
+12566934SIMANGAS                 GENARO RICARDO           B
+12567153SANCHEZ                  CRISTIAN                 D
+12567477MORI                     GIUSEPPINA INMACULADA    B
+12567399VIGIL                    TERESA                   C
+12566816BELLIDO                  ISELA LILIANA            D
+12566958LEO                      JENNY ISABEL             C
+12567623ORELLANA                 ELENA REGINA             D
+12567670HUAMAN                   ENA BEATRIZ              D
+12567778BENITO                   JOHN VIRGILIO            A
+12567083URIZAR                   VICTOR RAUL              E
+12567128PERROTTA                 ENA                      D
+12567803TORREJON                 JANET ROSARIO            E
+12566987VASQUEZ                  JEAN PIERRE MARTIN       E
+12567878ARROYO                   ELZA                     C
+12566795DELGADO                  MARGARITA                A
+12567390BENAVIDES                MIGUEL ANGEL             E
+12567134CRUZ DE GARCIA           ANNY IDA                 E
+12567674ARIAS                    JESUS                    D
+12567358OLIVERA                  HERMANN EDUARDO          D
+12567914LOZA                     MARIA FERNANDA           B
+12567075TRAGODARA                ALEXIA                   D
+12567140CERVANTES                JORGE LUIS               C
+12567712FERNANDEZ                JOSHUA LEONARDO          E
+12566731REED                     EDWIN EDDY               B
+12567306BARRIENTOS               BENITA                   E
+12567322BERRY                    ALDA LUISA               A
+12567422DE YAMAMOTO              ROSA HELLEN              D
+12567030SANCHEZ                  LUCIA                    B
+12567749TACZA                    LINO ALBERTO             E
+12567385FLORES                   GABRIELA                 C
+12567739TORRES                   DIEGO                    E
+12566733NIQUEN                   MIGUEL                   C
+12566730COLOMA                   JIMMY VICTOR             A
+12567603PRADO                    PIERRE ANDRE             D
+12567852GONZALES                 VICTORIA                 B
+12566759GARCIA                   ELIZABETH MARIA          D
+12567440GUTIERREZ                SHIRLEY                  A
+12567556GARCIA DE KIMBERLING     JUAN ARCADIO             A
+12567464ROSAS                    ANDRES EDUARDO           E
+12566955CALDERON                 EDUARDO XAVIER           C
+12567676ABANTO                   PAOLA DEL ROSARIO        E
+12566775STRUQUE                  JULIA LEONOR             C
+12567184HERRERA                  EDUARDO ULISES           D
+12567373PAREDES                  JUAN ANTONIO JEFFERS     B
+12566858MOSCOSO                  IAN MATHIS               C
+12567090CASTILLO                 DIEGO REYNALDO           A
+12566835ANTEZANA                 ALEXA RAE                A
+12566916GONZALES                 EDDY GUILLERMO           E
+12567499MENDOZA                  OBDULIA                  A
+12567093TRILLO                   BRUNO RENATO             C
+12567161REBAGLIATI               LIZET                    A
+12567622CORDOVA                  ANTONIETA JANET          D
+12567310MONTIEL                  EMERITA                  C
+12567908ARAUJO                   LUIS ALBERTO             E
+12566824PEREZ                    MARIA PIA                A
+12567282ROJAS                    LUCAS                    A
+12567653CONGACHI                 RAFAEL ARTURO            A
+12566735SANCHEZ                  RUTH OLINDA              D
+12567568GISMONDI                 RICARDO CESAR            C
+12567205TALAVERA                 HUMBERTO GIANCARLO       B
+12567307HERNANDEZ                JOSE ORLANDO             A
+12567528HIJAR DE KAYSER          MARTHA CECILIA CRISTINA  D
+12566948CASO                     LUISA ESPERANZA          B
+12567890DIAZ                     GIANMARCO GUSTAVO        E
+12567539MUNAYLLA                 IAN MATHIS               C
+12566804ABARCA                   GLHINDA MARLENY          A
+12566852LUQUE                    JULIA                    B
+12567788SALAZAR                  SONIA                    C
+12567589DE FRANKLIN              LUISA EULALIA            E
+12567565SILVA                    LELIA                    A
+12567003ZAPATA                   LEONOR AURORA            C
+12567893BENITES                  LUIS HUMBERTO            D
+12567117VIDALON                  GIANCARLOS ARTURO        D
+12567418LEONARDO                 JOSE MANUEL              C
+12567057SIERRA                   JESSE ALEXANDER          E
+12567004PAREDES                  MARTHA ANGELICA          D
+12566919VILLACORTA               LUIS HUMBERTO            B
+12567302BURGA                    RICARDO CESAR            E
+12567357GRILL                    LUISA EULALIA            B
+12566788NAVAS                    ELSA JANET               E
+12566931GARCIA                   HILDA MILAGRITOS         C
+12567318JONES                    CESAR FERNANDO           B
+12567350CHIGNE                   JONATHAN LEON            D
+12567745ROJAS                    JAIME IVAN MARTIN        D
+12566860PACUSSICH                ASCENCION                E
+12567392LOYOLA                   CELICA TRINIDAD          A
+12566942CARRION                  GRIMALDINA               A
+12567489RODRIGUEZ                ROXANA CONSUELO          B
+12566952MOSCOSO                  IVAN RAMON               D
+12567025SIMMONS                  LUCINDA MARGOT           B
+12567856FALLA                    BRITTANY ISABEL          A
+12566864ALARCON                  CARMEN PATRICIA          E
+12567072HIDALGO                  CAROLA KARINA            A
+12567113SEGOVIA                  YORYI VILMA              C
+12567425POTTER                   ANDDY JORDAN             B
+12567452DIAZ DE CARCAMO          ZOILA SOLEDAD            C
+12567620URIZAR                   PAOLA JANET              E
+12567862CAMONES                  JOSE ANTONIO             D
+12567419SOLANO                   LUZ EDELVINA             E
+12566840ACHA                     SANDRO PABLO             C
+12567289GARCIA                   AMAIA                    B
+12567510BALANDRA                 NOHEMI LASTENIA          D
+12566836CORTEZ                   SEVASTIAN ISAIAH         C
+12567273VALLE                    CARLOS ANDRES            A
+12567605POTERILLO                VICTOR DANIEL            D
+12567226CHAVEZ                   SONIA                    A
+12567536ATOCHE                   JANNY EVELYN             A
+12566810CASTILLON                NESTOR ALCIDES           B
+12567001CABELLO                  CRISTINA GLADYS          E
+12567193FEBRES                   ROXANA ARACELI           E
+12567572DEL AGUILA               PAMELA LESLIE            E
+12567756BALABARCA                KELLY CARMIN             E
+12567054NEIRA                    JOSE FREDDY              B
+12567230MONTEAGUDO               BRUNO RENATO             B
+12567355UBIDIA                   ALDA LUISA               D
+12566977OCHARAN                  ANABEL ALEXANDRA         C
+12567631ORE                      MIGUEL                   C
+12567347MATEO                    YRIS FANY                A
+12567029GOMEZ                    WALKER ALEXANDER         C
+12567052DAVILA                   FIORELLA SUZANNE         E
+12567360CABRERA                  GIANMARCO GUSTAVO        C
+12566970MILJANOVICH              ENRIQUE ARTURO           E
+12567032CONDORI                  CESAR FERNANDO           B
+12567606GARCIA                   ALEXANDER GEORGE         E
+12567665LINDO                    AZUCENA LUCCIANA         C
+12566758CAPCHA                   ALDO JOSE                C
+12567394PEREDA                   JUAN CARLOS              C
+12567573MONTERO                  ZENON                    E
+12567750GARCIA                   YOHNNY ORLANDO           B
+12566869VARGAS                   DELIA LUCIA              B
+12567579MORALES                  GIULIAN ALEXANDER        B
+12566969OLIVA                    HECTOR LUIS              A
+12566960HERNANDEZ                EDUARDO ANGEL            C
+12567136BARTRA                   ENRIQUE ARTURO           D
+12567288BURGA                    GLHINDA MARLENY          D
+12567844ROSAS                    LOIDA JUANA              C
+12567445VASQUEZ                  ELIZABETH TEOFILA        B
+12567497SAN MARTIN               JAVIER EDUARDO           D
+12567720SALAZAR                  CARLA MEDALIT            B
+12567354MUNIVE                   JUAN ROBERTO             A
+12567534VASQUEZ                  HAYDEE ROSARIO           E
+12566839VASQUEZ                  ALESSANDRO               C
+12566930DE CAVERO                DENISE BELINDA           E
+12567264CARRION                  EDITH                    D
+12567538CASTILLA                 CHIARA MAZZINI           D
+12567919PULIDO                   LUISA ESPERANZA          E
+12567334GONZALES                 VICTORIA                 C
+12567237RODRIGUEZ                PEDRO MIGUEL GUSTAVO     B
+12567365DE UREÑA                 MARIA RITA               A
+12567650FERNANDEZ CONCHA         MARIANA                  C
+12566739PARDO                    MARIBEL CRISPINA         D
+12567731OLMOS                    JUSTIN KYLE              C
+12567345AZAÑA                    CELIA VICTORIA           D
+12567443PARRISHER                IVONNE ELIZABETH         C
+12566847CARRILLO                 JOSE HUMBERTO            D
+12567229CHAVEZ                   JAVIER FRANCISCO         C
+12567835VELASQUEZ                HILDA VIOLETA            A
+12567636PANDO                    CARMEN SHERLEY           D
+12567571PESARESSI                PATRICE ANNE             E
+12567614ALBAN                    ESTELA                   D
+12567183REICHARDT                CESAR MANUEL             C
+12567236MONTEZA                  MARIA FRANCISCA          B
+12567298ESPINOZA                 ROXANA MIRTHA            E
+12567233SANCHEZ                  HAYDEE ROSARIO           E
+12566724BOYER                    KATTY SUSANA             D
+12567130MATEO                    JIMMY ALEXANDER          C
+12567524DE DAVILA                LEONEL SAUL              D
+12567215NUÑEZ                    JOHN VIRGILIO            C
+12567375LOAYZA                   RAUL ABSALON             B
+12567460ESPEJO                   MARIO                    D
+12566846CABANILLAS               JOSE ANTONIO             A
+12567157RAZZETO                  SAMY ADAM                C
+12567518CARBAJAL                 DOMINIK ALEJANDRO        B
+12566798ESCOBAR                  CARLOS ALBERTO           A
+12567493RODRIGUEZ                RAUL FELIPE              D
+12567227ESTRADA                  JUSTIN KYLE              C
+12567369REYMUNDO                 ULADISLAO                C
+12567034DAVILA                   SUSANA MAGDALENA         E
+12567120CHAMBA                   RODOLFO OMAR             B
+12567915MORY                     EDDY BENJAMIN            E
+12567199VARGAS                   LUIS HERNAN              B
+12567847DE SOUZA                 MARITZA BLANCA           B
+12567874GUIDICE                  CARLA GUADALUPE          E
+12567716GAYTAN                   LESLY ANGELICA HANNY     A
+12566760CORAHUA                  JANET ROSARIO            D
+12567621VELAZCO                  JORGE RAUL               B
+12566947PARI                     LILA CHARLIZE            B
+12567110CANESSA                  ROBERTO AUGUSTO          D
+12566928GUEVARA                  FIORELLA SUZANNE         C
+12567308HINOJOSA                 MARIANA                  A
+12567186CASTILLON                CINTHYA GRISELL          B
+12567224CHUNG                    ROSANGELA VERONICA       E
+12566906GARCIA                   ANNY IDA                 D
+12566717MUÑOZ                    JUAN CARLOS              C
+12567258CLEMENTE                 TERESA                   E
+12567417GORDILLO                 JHONY WILLIAM            D
+12567129VILLA GARCIA             FIORELLA DEL PILAR       E
+12567795VENTOCILLA               ENA BEATRIZ              E
+12567313VELASQUEZ                PIERRE ANDRE             E
+12567338VILA                     JORGE AUGUSTO            E
+12567340REYES                    FRANK IRVING             C
+12566988CHOMON RUIZ              HECTOR                   B
+12566965RAMIREZ                  DANIEL FRANCISCO         E
+12567121TORRES                   VICTOR MANUEL            D
+12567675SUAREZ                   MARY ELSA                C
+12567166PACHAS                   VERONICA ELIZABETH       C
+12566915VILLAFUERTE              MARIA ISABEL             B
+12567080BURNEO                   RICARDO ALEX             C
+12566762PACHAS                   JUANA BERTHA             B
+12567812VAGNER                   VICTORIA NORMA           E
+12567479VILLAREYES               SUSANA MARIA             A
+12566973ZANABRIA                 LUCY                     B
+12567343RAMOS                    LUIS HUMBERTO            D
+12567918NASSI                    FIORELLA LISSETTE        C
+12567576REYES                    ELIZABETH TEOFILA        E
+12567721VALLEJOS                 LILIANA ZORAIDA          A
+12566784CARRILLO                 JULIO CESAR              E
+12567691SARMIENTO                ANDRES DAVID             C
+12567815OJEDA                    NANCY ELIZABETH          D
+12567868MARTINEZ                 RUBEN FILIBERTO          C
+12567257TOVAR                    JIMMY ALEXANDER          B
+12566726BONN                     CARMEN IRENE             D
+12567377CRUZ                     CARLOS                   A
+12567724ARANGO                   NESTOR ALCIDES           C
+12567681ROBERTSON                ELVIA                    A
+12567391HUAMANI                  ROMULO JORGE             A
+12566979TEVES                    MARIA DIONELLA           E
+12567351PEÑA                     MANUEL LEONARDO          A
+12567248ALARCON                  THIAGO                   C
+12566939VALLE                    GISSELLA ANTUANET        D
+12567488MUÑOZ                    JORGE LUIS               B
+12567198BORJAS                   JULIO MAXIMO             D
+12567008AVENDAÑO                 IVONNE ELIZABETH         D
+12567327RODRIGUEZ                CAROLINA ROSA            A
+12567379STOPP                    NICOLAS MARIANO          A
+12567020MENDOZA                  MARIA DEL CARMEN         E
+12566908MONTENEGRO               ZARA JULIETA             D
+12567547ECHEANDIA                JORGE ALBERTO            D
+12567734MAZZINI                  OSCAR EDUARDO            E
+12567316HUAMAN                   LELIA                    E
+12567789VELASQUEZ                ROSALIA                  B
+12567796RODRIGUEZ                MARIA ROCIO              C
+12567654PUMA                     DIEGO                    D
+12567045ROMERO DE RIOS           CARLOS ALBERTO           E
+12567304AGUIRRE                  VALERIA ALEJANDRA        E
+12567647MARTINEZ                 ROXANA DEL CARMEN        E
+12567131RUIZ                     JIMMY ALEXANDER          D
+12567787PIÑAS DE CARO            SERGIO DAVID             E
+12567068CASTRO                   ISELA LILIANA            E
+12567829VARESE                   CARLOS ALFONSO           C
+12567819RODRIGUEZ                NATALIE NICHOLE          E
+12567781GUEVARA                  RODOLFO OMAR             D
+12567790DEL CARPIO               MOISES DAVID             C
+12567265RAFAEL                   GIANELLA                 D
+12567563ZAVALA                   FIORELLA DEL PILAR       C
+12567283RUIDIAZ                  LIZET                    C
+12567701MAYORGA                  EMMA ELINA               C
+12567069ESPINOZA                 CIRILO ALFONSO           E
+12566823ROJAS                    ROSENDO PABLO            E
+12567156LEON                     VICTOR LEONIDAS          C
+12567078LIMO                     JOHANNA                  E
+12567482SILVA SANTISTEVAN        OLGA VICTORIA            C
+12567570FAJARDO                  CAMILLE MEZARINA         D
+12567252FLORIAN                  ROXANA                   D
+12567496GREGORIO                 WALKER ALEXANDER         B
+12567420RODRIGUEZ                VICTORIA CELESTINA       E
+12566993RETAMOZO                 JULISSA LIZETH           A
+12567102ALARCON                  CRISTINA GLADYS          A
+12567773TUESTA                   MARIA ESTHER             E
+12567087SALAS                    JUAN CARLOS              D
+12567466VERGARA                  GIOVANNI ORLANDO         E
+12567081DELLY                    VICTOR                   B
+12567545RESURRECCION DE TASAYCO  WILFREDO SEBASTIAN       D
+12567590DUFFAUT                  LUPE ESTELA              C
+12566833SOSA                     MARIA DE JESUS           C
+12566792POSADAS                  JUAN JOSE                A
+12567212BARRIGA                  ALFREDO EMILIO           B
+12566738AVANTO                   GUIDO                    E
+12566765VALVERDE                 BRIEL KAELA              C
+12567468ARAUCO                   JUAN MANUEL              D
+12567602KILCOYNE                 JORGE RAUL               B
+12567513VALVERDE                 JORGE ANTONIO            D
+12567763VASQUEZ                  CARMEN SUSANA            A
+12567686ANGELES                  RUBEN RICARDO            E
+12567430BENAVIDES                JUAN ARCADIO             C
+12566832PASTOR                   SACRAMENTO               B
+12567196DE ROJAS                 KARLA ANGELA             B
+12567141SEMINARIO                LUIS ENRIQUE             D
+12567363LOPEZ                    CARMEN PATRICIA          B
+12567152SALAS                    GLADYS BERNARDA          A
+12567822TAKEUTI                  MARGORIE DEL CARMEN      A
+12566886BAYLON                   ZARA JULIETA             C
+12566914FELIX                    KAREN ROSSE              C
+12566771GUTIERREZ                EMILUZ XIOMARA           B
+12567476CASTILLO                 LUCIA GABRIELA           E
+12567611ZAPATA                   KELLY                    A
+12567616MOGROVEJO                WLENNY GIOVANNA          D
+12566990ORDINOLA                 CARLOS                   D
+12567105VILLANUEVA               JUAN JOSE                C
+12567767VALVERDE                 CARLOS ALBERTO           A
+12567398ROMERO                   LUZ EDELVINA             A
+12567639SALAZAR                  GEANELLA CAROLINE        C
+12567671TRISTAN                  GWENDOLYN GIANELLA       C
+12567566ALEJANDRO                MIGUEL ANGEL             D
+12567757YARO                     RUTH TANIA               E
+12566728BITERNAS                 GUIDO                    D
+12566905REED                     CESAR AUGUSTO            B
+12567386ANGELES                  GABRIELA LEONOR          E
+12567293YENGLE                   NEKANE                   C
+12567149ALEGRIA                  ROSA MERCEDES            B
+12567551MAURTUA                  MARIO ANTONY             C
+12566978ORTIZ                    MARY GLADYS              C
+12567277VARGAS                   KAREN ANGELICA           C
+12567263SAM-VARGAS               JULIA                    A
+12567743GUTIERREZ                NOHEMI LASTENIA          D
+12567012ARTEAGA                  LIBIA HIDEKO             D
+12567663PIEDRA                   ALFREDO EMILIO           D
+12567785PALMA                    ROMAN                    C
+12566781PINEDA                   ANTONIETA JANET          D
+12567208MEZA                     ALEJANDRA                E
+12567446BERRY                    ELSA CARMELA             B
+12567246LLANOS                   JOSET JESUS              B
+12566727ESPINOZA                 GIANKARLO MATTHEW        A
+12566972DE LA CRUZ               NICOLE ADRIANA           D
+12567473NOVOA                    BRITTANY ISABEL          E
+12567213URQUIETA                 JOSET JESUS              C
+12567861RODRIGUEZ                JORGE ANTONIO            A
+12567127TOMATIS                  LUCIA                    D
+12567352BENITES                  PAOLA JANET              C
+12566980LORENA                   MILAGROS GISELLE         B
+12566936ARIAS                    GLORIA MARGARITA         E
+12567902CUETTO                   LUKAS NORBERT            D
+12566917SALINAS                  GENESIS DEZARIE          C
+12567073VARGAS                   MARIA LAURA              E
+12567256JUICA                    JIMMY ALEXANDER          A
+12567107RUIZ                     LIZ                      B
+12566732FERNANDEZ CONCHA         MARIA LAURA              B
+12567321SIPION                   YVONNE VIVIENNE          C
+12567491WASCHBUESCH              ESMERALDA CAMILA         B
+12566922BARRIENTOS               YAN PIERRE               B
+12567711TAPARA                   ALEJANDRA GUADALUPE      C
+12567031UNTIVEROS                GUILLERMO ANTONIO        B
+12567507SILVA SANTISTEBAN        MIGUEL ANGEL             E
+12567022LEON VDA DE ZARZOSA      GABRIELA DENISSE         D
+12567433VARGAS                   JENNY ISABEL             B
+12567444COLQUICOCHA              ALONSO ALEJANDRO         C
+12567649SOTELO                   JUAN CARLOS              E
+12567146CASTILLO                 MACARENA                 C
+12567074CASTAÑEDA                RAUL ABSALON             C
+12567164GUEVARA                  ANDRES DAVID             E
+12567254FLORES                   JOSE GLICERIO            D
+12567042CORONEL                  YASMINE ALEXIS           C
+12567163DELGADO                  RICHARD TITO             E
+12567569PAULI                    JOSE                     C
+12567836BURGA                    IVONNE LIZETH            E
+12566913HOYLE                    FRANCY GUISELLA          A
+12567084ALVAREZ                  CESAR AUGUSTO            C
+12567710PALMA                    EMILUZ XIOMARA           C
+12567500BORJA                    EDITH                    B
+12567704CHAHUAYO                 RUTH OLINDA              E
+12567652AYALA                    MARIA DE LOS ANGELES     A
+12566838NIETO                    IVONNE LIZETH            E
+12567342AQUINO                   CRISTIAN                 C
+12567114LEON                     MARIA RITA               E
+12566887SALAS                    KAREN ANGELICA           D
+12567872OROSCO                   RITA                     B
+12566713OBANDO                   CARLOS ALBERTO           B
+12566837COTA                     MANUEL ANTONIO           B
+12567145VALENCIA                 JUSTINIANO NICANOR       A
+12567818BORDER                   JORGE EDUARDO            B
+12566857SANCHEZ                  ELIZABETH LUZ            B
+12567325ORE                      ELSA CARMELA             A
+12567062ITABASHI                 MARIELLA YOLANDA         E
+12566740PERSIVALE                CARLOS                   D
+12567092ARCE                     ANILU IRMA               C
+12567655TAIÑA                    JOSE ANTONIO             A
+12566841BARRENECHEA              FERNANDO                 A
+12567779CORDOVA                  MANUEL ANTONIO           B
+12567079NUÑEZ                    KAREN ROSSE              C
+12567067ZARATE                   PERCY ESTUARDO           D
+12566945RODRIGUEZ                JESSE ALEXANDER          B
+12567095SALAZAR                  AMAIA                    A
+12567371MUSSO                    LUCCAS ANGELO            E
+12567925ROBLES                   RAFAEL                   E
+12566729ROMAN                    JENNIFER ALISON          B
+12567549POMA                     JUAN CARLOS RODRIGO      B
+12567558BONILLA                  ARTURO ANDRE             B
+12567086CORONEL                  ANDREA DEL ROCIO         C
+12567249TELLO                    JON RAMIRO ROSENDO       D
+12567190BARREDA                  JOSE ORLANDO             B
+12567906LEDESMA                  ANABEL ALEXANDRA         A
+12567414DE FIORENTINI            ANA CECILIA              A
+12566811SANCHEZ                  BLANCA IRIS              D
+12567442PAREDES                  MOISES DAVID             B
+12567727VELA                     JORGE ENRIQUE            B
+12567885URTEAGA                  MARIA DIONELLA           B
+12567825BRICEÑO                  FLOR DE MARIA            E
+12567274PIÑA                     RICARDO                  B
+12567286SOTO                     GINA PAOLA               A
+12566786ASCURRA                  PERCY AGUSTIN            C
+12567170CAVALLINI                MARY-ANN                 A
+12567553BEYTIA                   JULIO CESAR              C
+12566962ESPINOZA                 BRAULIO                  C
+12567244GOMEZ                    FRANK IRVING             D
+12567656LLAMOJA                  ROBERT                   C
+12567843UN                       EMBERY JESUS             E
+12567506MONTES                   MATTHIAS IGNACIO         E
+12567850CAMINO                   RAUL GREGORIO            E
+12567740DIAZ                     ROBERT                   E
+12567848LLANOS                   MARY GLADYS              D
+12567292VELASQUEZ                MARY-ANN                 B
+12567630GRILLO                   CARLOS ALEJANDRO         E
+12567758HUAMAN                   ERICK SEBASTIAN          B
+12566956CALIZAYA                 TIMOTEO                  A
+12567270MORA                     JOSE GLICERIO            D
+12567328PACHIONI                 GABRIELLA CAROLINA       E
+12567728FLORES                   JOSE ANDRES              C
+12567401TENAZOA                  ELVA MARIA               B
+12567546DE VALDIVIA              MIRIAM NELVA             C
+12566974ALVAREZ                  CARMEN PILAR             A
+12567684CABANILLAS               CARLOS ALEJANDRO         A
+12567875VELARDE                  GISELLA CRISTINA         C
+12566899VEXLER                   MARIA CECILIA            D
+12567866HIDALGO                  SUSAN CATHERINE          E
+12566822ORIHUELA                 WILDER JOHAN             C
+12567873ROJAS                    CESAR EUGENIO            D
+12567892AGUILAR                  ELVA MARIA               B
+12567383MALPARTIDA               LUIS ENRIQUE             D
+12567503TOVAR                    MAXIMO GRIGORIY          B
+12566720JARA                     JUAN                     C
+12567312MONTERO                  MAGALI INES              D
+12567542BAYONA                   ALEJANDRA                B
+12567619RIVERA                   TANIA CAROLINA           A
+12566714MENACHO                  PEDRO ALFONSO            D
+12567448BEDREGAL                 JULIO GUILLERMO          D
+12567666CAMINO                   BRANDON                  D
+12567632LEON DE AYQUIPA          ESPERANZA                B
+12566814ASTETE                   ANDRES FRANCISCO         D
+12567793MATTA                    ROBERTO AUGUSTO          E
+12567618PUICON                   LUIS ALBERTO             B
+12567910LEON                     CAROLINA                 D
+12566773SEGOVIA                  ALFREDO JAIME            D
+12567483VASQUEZ                  ANITA LETICIA            B
+12567580ALMONTE                  IVAN RAMON               A
+12567628CHAVEZ                   LISSETTE                 C
+12567434GARCIA                   PERCY AGUSTIN            C
+12567894NORATTO                  NORMALINDA               A
+12566890NUVE                     LUCA TIMOTHY             A
+12567235ORE                      KARINA ELIZABETH         C
+12567462GOSSIN                   CHRISTIAN ANGELO         D
+12567637TUYA                     CECILIA YOVANA           A
+12566898RAMIREZ                  MANUEL ANTONIO           A
+12567451SALAS                    MILTON ANGELO            B
+12566764FREITAS                  LUIS ALEJANDRO           A
+12567000ACEVEDO                  FABIANA                  C
+12567210GUTARRA                  MELISSA                  C
+12567645VALLE                    MOISES FLORENCIO         E
+12567044PACCHIONI                ROXANA CONSUELO          B
+12567838DRAGAÑAC                 LINA LUZ                 A
+12567364ARIAS                    CAROLINE                 A
+12567147CHAVARRIA                JUANA BERTHA             A
+12567393VILCHEZ                  AGATHA LIZ               A
+12567588CUBAS                    LUCY ELENA               A
+12567333GABE                     MANUEL JESUS             C
+12567300LIZANO                   MARIA MARTA              E
+12567737RIVERA                   SADIALY PAOLA            A
+12567799SILVA                    MIGUEL ANGEL             A
+12566850CACERES                  JESSICA ANDREA           D
+12566868CONTRERAS                DELIA LUCIA              A
+12567101VALLE                    CHRISTIAN ANGELO         D
+12567367ASTUDILLO                PEDRO ALFONSO            A
+12567349RUIZ                     DEISI KARINA             E
+12567860MEDINA                   VICTOR LEONIDAS          B
+12567427RAMOS                    MILAGROS VANESSA         B
+12566975CASTILLO                 JORGE JACKSON            D
+12567540ALBA                     EMERITA                  B
+12567096GARRO                    NEKANE                   B
+12566767OVIEDO                   YOLANDA                  E
+12567521HERRERA                  DIANA BRIGITTE           E
+12567204PAREDES                  CRISTHIAN DANIEL         B
+12566903LA PORTILLA              JUAN CARLOS              E
+12567346GARCIA                   IRENE CECILIA            B
+12566996BARCENA                  MARTHA ANGELICA          A
+12567329RIOS                     JESSICA PAOLA            D
+12567335OCAÑA                    JHON POOL                D
+12567498CASTILLO                 JUAN MARTIN              E
+12567331ARAUJO                   JOSE MIGUEL              C
+12567811URIA                     VICTORIA NORMA           D
+12567133MALPARTIDA DE CAÑOTE     RICHARD TITO             D
+12567169PEREA                    ANA MARIA DEL ROSARIO    A
+12566718APARICIO                 KENYI ARIADNA            C
+12567640AYALA                    GLORIA                   A
+12566709SANCHEZ                  PAOLA DEL ROSARIO        C
+12566744TORRES                   SANDRA FRANCESCA         E
+12567883VDA DE ZEGARRA           KATHERINE LYNN           C
+12566817CAMPOS                   LUKAS NORBERT            E
+12567449MANSILLA                 LEONEL                   A
+12567527ROMAN                    LILIAN SUSANA            E
+12566959MORILLA                  ROXANA MIRTHA            D
+12567077MORALES                  GRACIELA VICTORIA        A
+12567126MARTINEZ                 JONATHAN MICHAEL         E
+12567703ROJAS                    RICARDO ARTURO           A
+12566849SANTOLALLA               GABRIELA DENISSE         C
+12567206APAZA                    AURELIO SEGUNDINO        E
+12567594CARBAJAL                 SEVASTIAN ISAIAH         B
+12567897ROSA PEREZ               HAYRO GABRIEL            B
+12567515STUCCHI                  MARJORIE LAURA           E
+12567657VILLON DE DONAYRE        JONATHAN MICHAEL         C
+12567240FABIAN                   EMILIANA                 C
+12567839MACCHIAVELLO             MARIA ESTHER             E
+12567487ZARZOSA                  JORGE ENRIQUE            C
+12566768SUING                    JODY MERCEDES            A
+12567624PACHECO                  GENESIS DEZARIE          D
+12567027SILVA                    OBDULIA                  E
+12567911VARGAS                   CAROLINA                 E
+12567921CARRILLO DE PRECIADO     CLAUDIO WILFREDO         E
+12567685SISNIEGAS DE HOLCOMB     PEDRO ISIDRO             E
+12566754HANDAL DE NAVEA          KARIM ARACELLY           C
+12566873VALENZUELA               PIERO THOMAS             A
+12566888APARCANA                 GINO PAOLO               C
+12566751ORTEGA                   JOSE MIGUEL GIUSEPPI     A
+12566750BRICEÑO                  GABRIELLA CAROLINA       E
+12567725ROMERO                   ELSA JANET               B
+12567426HERRERA                  HENRY IVAN STEWARD       E
+12567768ALAMA                    EDSON JHONATAN           C
+12567187SANCHEZ                  ERIKA                    B
+12567898CASTILLO                 JOSE FERNANDO            C
+12567269VELASQUEZ                YRIS FANY                B
+12567917VALDIVIA                 MERCEDES CAROL           E
+12567659RODRIGUEZ                PATRICIA CAROL           A
+12567416CAMARENA                 STEFANO                  A
+12567841RODRIGUEZ-PASTOR         CARLOS                   E
+12567826LAUREL                   MARITZA BLANCA           D
+12567168MUÑOZ NAJAR              ROXANA GILDA             C
+12567562TIEMROTH                 ANA MARIBEL              A
+12566884FARJE                    JORGE EDUARDO            C
+12567043PINEDA                   AURELIO SEGUNDINO        B
+12567341UBILLUS                  MARISCELA ISABEL         A
+12567366AREVALO                  ARMANDO                  E
+12567798ALBITES                  GABRIELA LEONOR          D
+12567813VIVANCO                  CARMEN SHERLEY           A
+12567846CARRANZA                 MARIA FERNANDA           C
+12567456DIAZ                     CARLA MEDALIT            A
+12567159VIVANCO                  ANDRES ALEJANDRO         A
+12567353PORTILLA                 MARIA ISABEL             C
+12567424CHAVEZ                   ESTELA                   E
+12567552BERASTAIN                NANCY ELIZABETH          B
+12567094GARDELLA                 JHONNATHAN GIOVANNI      B
+12567697RODRIGUEZ                YASMINE ALEXIS           E
+12567851LI                       ROSA CECILIA             A
+12566853MILLA                    ROSSANA ELIZABETH        A
+12567823YAGUI                    RAFAEL ARTURO            D
+12566957CATACORA                 ROSALIA                  B
+12567132GUERRA                   MARIA ESTHER             A
+12567607VELASQUEZ                MARIA ELENA              A
+12566785GONZALES                 MARIA FRANCISCA          E
+12567519SALINAS                  BRIANNA                  E
+12567634PIZARRO                  FERNANDO                 D
+12567376ALBINES                  CLAUDIA ISABEL           B
+12567706SALINAS                  MANUEL JESUS             C
+12566894ROJAS                    MARTIN ENRIQUE           C
+12567407SAHOO                    JESUS FELIPE             D
+12567680CORTEZ                   VICTOR LUIS              C
+12566895ROSALES                  SAMY ADAM                D
+12567808ALMEIDA                  YVONNE VIVIENNE          B
+12566770BARRETO                  GERMAN GUILLERMO         D
+12567913PACHECO                  DANIEL HERNAN            A
+12566830ALVAREZ                  ALEXANDER GEORGE         D
+12567529KRISTIANSEN              RICARDO GERMAN           B
+12567682ASTETE                   MARIBEL CRISPINA         B
+12567214LEN                      MARIA LOURDES            E
+12567218OTOYA                    MARIA PIA                D
+12567505ESPINOZA                 LANA ROSE                C
+12566995SOUQUON                  JOSE                     D
+12567402AGUERO                   GLADYS HORTENCIA         C
+12566746MARCELO                  MAXIMO GRIGORIY          D
+12566964CHAPILLIQUEN             ANA CATHERINE            E
+12567723QUISPE                   JESSICA PAOLA            C
+12566901MIANI                    DARLING SOFIA            B
+12567272CAMPOS                   MARIA DE JESUS           B
+12567484ECHEVARRIA               ESTEFANI                 B
+12566968GALLEGOS                 LOIDA JUANA              B
+12566827LENTA                    JOSIAH MATTEO            E
+12567125RODRIGUEZ                MARIELA LUCIA            A
+12567722HUAMANZANA               GIANKARLO MATTHEW        C
+12566708CASTILLON                FELICITA VICTORIA        A
+12567359RAMIREZ                  JULIO GIANCARLO          A
+12567405PRADO                    LUIS HUMBERTO            C
+12567530DEXTRE                   STEPHANIE                B
+12567548NUÑEZ                    JORGE AUGUSTO            A
+12567709GONZALES                 DAMIAN JULIO             E
+12567638NEIRA                    FABRIZIO ALEJANDRO       B
+12567748SALVATIERRA              CARMEN ROSA              C
+12567242OSCANOA                  OLIVER FRITZ             E
+12567700CALENZANI                CAROLINA ROSA            D
+12566904COLOMA                   MANUEL ANTONIO           D
+12567231SOTELO                   DENISE HAYDEE            D
+12567904ESTACIO                  LUCIA GABRIELA           A
+12567677SANCHEZ                  RITA                     C
+12567185QUEZADA                  JULIO GIANCARLO          B
+12567832CONTRERAS                FIORELLA LISSETTE        B
+12566966SALVATIERRA              ALEXANDER LAWSON         C
+12567855MALQUI                   ASHLEY IRENE             A
+12567600HARO                     CESAR AUGUSTO            D
+12567586AGUILAR                  LETTY CONCEPCION         C
+12567266ANGELES                  BRIEL KAELA              A
+12567707VALVERDE                 LUIS RAFAEL              C
+12567792CHUQUILLANQUI            JUAN CARLOS RODRIGO      C
+12567275SOTO                     SUSANA MAGDALENA         E
+12567736RIVERA                   ANDRES                   A
+12567771RIOS VDA. DE BARRIGA     JHONNATHAN GIOVANNI      B
+12567461RODRIGUEZ                MARIELA LUCIA            B
+12567673ROBLADILLO DE SILVA      INGRID                   A
+12566782NORTON                   BRENDA CAROL             C
+12566876TONG                     RUTH TANIA               A
+12566893FONSECA                  MARIA DE LOS ANGELES     E
+12567211PORRAS                   CESAR EDWIND             D
+12566967TACZA                    CHIARA MAZZINI           E
+12567061CAHUA                    JHONNY BEJER             A
+12567279GONZALEZ                 TIMOTEO                  E
+12567754GEREDA                   ANDRES                   C
+12567641CONGACHI                 GWENDOLYN GIANELLA       A
+12566851VARGAS                   OLGA VICTORIA            E
+12567219SEQUEIROS                MARIA ELIZABETH          E
+12566777WASCHBUESCH              VICTOR MANUEL            E
+12567053VIERA                    GUILLERMO ANTONIO        D
+12566829ROBANCHO                 MARIA PIA                E
+12567514CARDICH                  LUIS ALEJANDRO           B
+12566834ALFARO                   MARIA ROCIO              D
+12567882MONTES                   JHONNY BEJER             D
+12567339ZEBALLOS                 DESIREE MIREYA           C
+12566779GALVAN                   ROSA CECILIA             E
+12566802BERROSPI                 JAVIER FERNANDO          A
+12567253SEGURA                   JOSE ANTONIO             C
+12567658FERIA                    BRENDA CAROL             B
+12567115PENAGOS                  GESELLE                  E
+12566863RIVASPLATA               SUT LAN                  B
+12567864GUZMAN                   MEDALIT REBECA           B
+12566743MARTINEZ                 CLAUDIA ROZANA           C
+12567036HOYLE                    MARIA LUZ                E
+12566879FERNANDEZ                THIAGO                   C
+12567744CALDERON                 SHIZUE                   C
+12567687SANTISTEBAN              JORGE LUIS               B
+12567824ACUÑA                    ROSA ELVIRA              C
+12567692LEON                     GIOVANNA ALEJANDRA       A
+12566820ARAUJO                   JEAN PIERRE MARTIN       D
+12567323CANESSA                  CARLOS GABRIEL           A
+12567438GARCIA                   MARJORIE LAURA           A
+12566866CAILLOMA                 CARMEN SILVIA            D
+12567567SANTIAGO                 RICARDO CESAR            B
+12567228BUSTAMANTE               YOHNNY ORLANDO           C
+12567888CHAVEZ                   CIRILO ALFONSO           E
+12567344ARBIZA                   DENISE HAYDEE            E
+12566878ECHEVARRIA               OMAR                     B
+12567188JARA                     EDUARDO XAVIER           A
+12567171DELGADO DE SANCHEZ       DESIREE F                A
+12567501CARDENAS                 JOSE MIGUEL GIUSEPPI     A
+12566749RIVERA                   EDDY GUILLERMO           A
+12567437RUIZ                     ESMERALDA CAMILA         B
+12567870FLORES                   CARLOS GUSTAVO           A
+12567070GIRON                    NORMAN BRUCE             C
+12567797SATTUI                   SANDRO PABLO             A
+12567520DELGADO                  CESAR EUGENIO            A
+12566722GARCIA                   WILDER JOHAN             C
+12567901SHAREI                   FABIAN JOHANN            A
+12566815SAMANAMUD                FABIAN JOHANN            C
+12567455WINDER                   LOGAN PAREDES            E
+12567863IBAÑEZ                   JOSE MIGUEL              D
+12566999RONCO                    ERICK SEBASTIAN          A
+12567035TERRONES                 MARTHA CECILIA CRISTINA  C
+12566831VIDAL                    EDGARD GUSTAVO           C
+12567135OLIVRY                   CLARA                    E
+12566819ZUÑIGA                   LILIANA ZORAIDA          B
+12567268QUISPE                   MARGORIE DEL CARMEN      C
+12567667ESTRADA                  CARLOS GABRIEL           B
+12567299RIVERA                   EDUARDO ANGEL            B
+12567485ESTREMAYDORO             MARIANELLA               C
+12567907TAPIA                    ROLANDO                  E
+12567502CARRASCO                 ARTURO ANDRE             A
+12567475TANTARUNA                KARINA ELIZABETH         C
+12567698CORDOVA                  OSCAR EDUARDO            A
+12566986HONOR                    GEANELLA CAROLINE        A
+12567103SOTELO                   JOSE ANTONIO             A
+12567746SANCHEZ                  LUIS HERNAN              A
+12567759TRISTAN                  EDILBERTO                B
+12566951HIDALGO                  LILIANA CATALINA         B
+12567912GARCIA                   CARMEN SUSANA            D
+12566861RAMOS                    CARLOS ALFONSO           C
+12567112CAYO                     URSULA MARIA             D
+12566826GALVEZ                   BENITA                   E
+12567097ROMERO                   PEDRO ISIDRO             E
+12567560MENA                     CARLOS RAUL              B
+12567713NICHO                    CHRISTINA DIANA          C
+12567900EL-HAGE                  ANDRES FRANCISCO         B
+12567916MINERVA                  ELIZABETH MARIA          B
+12567459CONGORA                  ANA                      D
+12567014GUTIERREZ                MARILIA                  D
+12567886VALENTINO                GIUSEPPINA INMACULADA    E
+12567834MANRIQUE                 GISSET MARGARITA         E
+12566932BAZAN                    RAUL ANGEL JOSE          E
+12567150DIEZ                     LIZ                      E
