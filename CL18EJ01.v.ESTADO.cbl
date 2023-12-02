@@ -1,7 +1,7 @@
       ******************************************************************
-      * Author: EMILIANO TOMASI
+      * Author: GABRIELA RODRIGUEZ
       * Date: 25/09/2023
-      * Purpose: CLASE 18 - EJERCICIO 2
+      * Purpose: 
       * DESCRIPCION: ORDENAR ARCHIVOS DE EMPLEADOS POR ESTADO
       ******************************************************************
        IDENTIFICATION DIVISION.
@@ -196,7 +196,7 @@
       *---- SETEAR EN NO ORDENADO PARA QUE ENTRE EN EL BUCLE
            MOVE 'NO'            TO WS-VALIDAR-ORDEN.
 
-      *----VOY A REPETIR HASTA QUE ESTÈ ORDENADA LA LISTA
+      *----VOY A REPETIR HASTA QUE ESTÃˆ ORDENADA LA LISTA
            PERFORM VARYING WS-I FROM 1 BY 1 UNTIL WS-I > 10 OR
                                   WS-ORDENADO-SI
       *----PARA UNA PASADA ASUMO QUE ESTA ORDENADA
@@ -238,10 +238,10 @@
       *----SETEAR EN NO ORDENADO PARA QUE ENTRE EN EL BUCLE
            MOVE 'NO'            TO WS-VALIDAR-ORDEN.
 
-      *----VOY A REPETIR HASTA QUE ESTÈ ORDENADA LA LISTA EMPLEADOS
+      *----VOY A REPETIR HASTA QUE ESTÃˆ ORDENADA LA LISTA EMPLEADOS
       *----USAR VARIABLES WS-II PARA INDICE Y WS-VAR-AUX2 COMO AUXILIAR
 
-      *----VOY A REPETIR HASTA QUE ESTÈ ORDENADA LA LISTA
+      *----VOY A REPETIR HASTA QUE ESTÃˆ ORDENADA LA LISTA
            PERFORM VARYING WS-II FROM 1 BY 1 UNTIL WS-II >
                            WS-CONT-REG-EMPLEADOS OR WS-ORDENADO-SI
       *----PARA UNA PASADA ASUMO QUE ESTA ORDENADA
